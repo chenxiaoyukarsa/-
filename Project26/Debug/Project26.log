@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\27697\source\repos\project26\project26\源.cpp(132): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 参见“getch”的声明
+  Project26.vcxproj -> C:\Users\27697\source\repos\Project26\Debug\Project26.exe
